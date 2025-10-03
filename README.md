@@ -56,7 +56,7 @@ Ready to get your hands dirty? Here’s how to use this repo:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Mwakiogeofrey/Algorithims.git
-   cd Python-DSA
+   cd Algorithims
 
   ## Pick a topic:
 Navigate to the folder you’re interested in. For example:
